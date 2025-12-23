@@ -1,0 +1,15 @@
+[
+    {
+        "id":"1",
+        "title":"Position Absolute Acı Pizza",
+        "price":"85.50₺",
+        "rating1":"4.9",
+        "rating2":"(200)",
+        "explanation":"Frontent Dev olarak hala position:absolute kullanıyorsan bu çok acı pizza tam sana göre. Pizza, domates, peynir ve genellikle çeşitli diğer malzemelerle kaplanmış, daha sonra geleneksel olarak odun ateşinde bir fırında yüksek sıcaklıkta pişirilen, genellikle yuvarlak, düzleştirilmiş mayalı buğday bazlı hamurdan oluşan İtalyan kökenli lezzetli bir yemektir. . Küçük bir pizzaya bazen pizzetta denir.",
+        "boyut":["Küçük","Orta","Büyük"],
+        "hamur":["İnce Hamur","Kalın Hamur"],
+        "malzemeler":["Pepperoni","Sosis","Kanada Jambonu","Tavuk Izgara","Soğan","Domates","Mısır","Sucuk","Jalepeno","Sarımsak","Biber","Zeytin","Ananas","Kabak"],
+        "kategori":"pizza"
+    }
+    
+]
